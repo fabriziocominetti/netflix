@@ -1,1 +1,3 @@
-# Python_Data-Science_projects
+# Python Data Science projects
+
+Data Science projects realized with Python
