@@ -1,3 +1,7 @@
-# Python Data Science projects
+# Netflix dataset - Exploratory Data Analysis
 
-Data Science projects realized with Python
+Basic and introductory exploratory data analysis with Python and Pandas.
+
+_Medium_ article:
+
+https://medium.com/dataseries/eda-analyze-your-own-netflix-data-1754e9438355
