@@ -2,6 +2,6 @@
 
 Basic and introductory exploratory data analysis with Python and Pandas.
 
-_Medium_ article:
+-- Project status: [Completed]
 
-https://medium.com/dataseries/eda-analyze-your-own-netflix-data-1754e9438355
+[Medium article](https://medium.com/dataseries/eda-analyze-your-own-netflix-data-1754e9438355)
